@@ -1,0 +1,1 @@
+Esse é um template de um bot de ticket no Discord usando JavaScript. Não me responsabilizo por algum problema em um canal, categoria, cargo, pessoa ou servidor que o bot tenha ligação.
